@@ -2186,6 +2186,16 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			}
+		.image.small {
+			display: block;
+			margin: 0 0 2.25em 0;
+			width: 70%;
+		}
+
+			.image.small img {
+				display: block;
+				width: 70%;
+			}
 
 		.image.avatar {
 			border-radius: 100%;
